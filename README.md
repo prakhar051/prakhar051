@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me  <br><br>🔭 I’m currently working on **Full-Stack Web Development** with **Django, React, and Docker**.  <br>👯 I’m looking to collaborate on **open-source projects and real-world applications**.  <br>🤝 I’m looking for help with **Cloud Deployments (AWS, Docker, Kubernetes)**.  <br>🌱 I’m currently learning **Machine Learning, DevOps, and System Design**.  <br>💬 Ask me about **Python, Django, React, and API development**.  <br>⚡ Fun fact: **I love debugging more than coding—it's like solving a mystery! 🕵️‍♂️**  <br>
+## 🚀 About Me  <br><br>🔭 I’m currently lerning on **Full-Stack Web Development** with **Django, React, and Docker**.  <br>👯 I’m looking to collaborate on **open-source projects and real-world applications**.  <br>🤝 I’m looking for help with **Cloud Deployments (AWS, Docker, Kubernetes)**.  <br>🌱 I’m currently learning **Machine Learning, DevOps, and System Design**.  <br>💬 Ask me about **Python, Django, React, and API development**.  <br>⚡ Fun fact: **I love debugging more than coding—it's like solving a mystery! 🕵️‍♂️**  <br>
 
 
 ## 🌐 Socials:
